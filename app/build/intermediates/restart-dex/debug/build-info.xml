@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="7056971697874"
+    token="-7745056803452994669"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="390" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="352" />
+    <task
+        name="verifier"
+        duration="50" />
+
+    <artifact
+        location="D:\google-services-master\google-services-master\android\LoanCalculator\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="7056971697874"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\google-services-master\google-services-master\android\LoanCalculator\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

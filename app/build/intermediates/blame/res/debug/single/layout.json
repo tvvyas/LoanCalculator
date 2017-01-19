@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\historylist.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculator\\app\\src\\main\\res\\layout\\historylist.xml"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\newentry.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculator\\app\\src\\main\\res\\layout\\newentry.xml"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listcontent.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculator\\app\\src\\main\\res\\layout\\listcontent.xml"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculator\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\update.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculator\\app\\src\\main\\res\\layout\\update.xml"
+    },
+    {
+        "merged": "D:\\google-services-master\\google-services-master\\android\\LoanCalculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\display.xml",
+        "source": "D:\\google-services-master\\google-services-master\\android\\LoanCalculator\\app\\src\\main\\res\\layout\\display.xml"
+    }
+]

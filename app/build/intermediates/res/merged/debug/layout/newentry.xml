@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button
+        android:id="@+id/newentry"
+        style="@style/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="94dp"
+        android:layout_marginTop="50dp"
+        android:text="@string/newentry" />
+
+    <Button
+        android:id="@+id/showold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/newentry"
+        android:layout_below="@+id/newentry"
+        android:layout_marginTop="32dp"
+        android:text="@string/showold"
+        style="@style/button" />
+
+    <Button
+        android:id="@+id/history"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/update"
+        android:layout_alignRight="@+id/update"
+        android:layout_below="@+id/update"
+        android:layout_marginTop="33dp"
+        android:text="@string/history" 
+        style="@style/button"/>
+
+    <Button
+        android:id="@+id/update"
+        style="@style/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/showold"
+        android:layout_alignRight="@+id/newentry"
+        android:layout_centerVertical="true"
+        android:text="@string/update" />
+
+</RelativeLayout>
